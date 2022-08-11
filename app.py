@@ -5,7 +5,7 @@ from pyrebaseAuthentication import FirebaseAuthenticationAPI
 from tkinterLoginUI import DrawAuthentication
 
 
-def my_tkinter_app(user_name):
+def my_app(user_name):
     # Put your whole Tkinter app inside this function
     root = Tk()
     root.title("My App")
@@ -73,10 +73,10 @@ def authentication_to_enter_the_app():
         if login.authentication_success and login.authentication_email_verified and login.authentication_correct_email_password:
             uui, display_name, signed_in = firebaseAuth.check_authentication()
             # Call App Function
-            my_tkinter_app(display_name)
+            my_app(display_name)
     else:
         # Call App Function
-        my_tkinter_app(display_name)
+        my_app(display_name)
 
 
 authentication_to_enter_the_app()
