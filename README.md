@@ -124,18 +124,23 @@ firebaseAuth = FirebaseAuthenticationAPI()
   measurementId: "G-XXXXXXXXXX"}
 - Click Continue to console
 - Open your python script and create a dictionary variable **firebase_config** and paste the values like the ***given format***
-- ```python
+- ```python 
   firebase_config={"apiKey": "XXxxXxX00XXxxx-xxxxX0XXXx0XxxxxxXXXXxxx",
   "authDomain": "xxx-xx-xxxxx.xxxxxxxxxxx.com",
   "projectId": "xxx-xx-xxxxx",
   "storageBucket": "xxx-xx-xxxxx.xxxxxxxx.com",
   "messagingSenderId": "xxxxxxxxxxxx",
   "appId": "x:xxxxxxxxxxxx:web:xxxxxxxxxxxxxxxxxxxxxx",
-  "measurementId": "G-XXXXXXXXXX"}
+  "measurementId": "G-XXXXXXXXXX",
+  "databaseURL": ""
+  }
+  # Copy this format exactly and DON"T FORGET TO KEEP "databaseURL":"", an empty string
+  # Keep databaseURL value an empty string
   
   # See I have put the keys inside ""
   # You need to put all the keys inside "" as python only accepts this format in its dictionary data types
   ```
+- ***Don't forget to add "databaseURL":"" like this***, keep the value of **"databaseURL"** = empty string
 - Go to your Firebase Project Overview/Dashboard and last one thing need to configure to use Firebase Authentication
 - Click **Build** from left side menu
 - Click **Authentication**
