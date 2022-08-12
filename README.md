@@ -19,6 +19,36 @@ write couple of lines to use Firebase authentication system in your python apps.
 
 <br/>
 
+<details>
+<summary> <b> Table of Contents </b> </summary>
+
+<ol>
+
+<li> <b><a href="## Dependencies">Install Required Dependencies </a></b> </li>
+<ul>
+<li><a href="### 1. Install Tkinter"> Install Tkinter </a></li>
+<li><a href="### 2. Install Firebase Library for Python"> Install Firebase in Python </a></li>
+<li><a href="### 3. Install Pillow"> Install Pillow </a></li>
+<li><a href="### 4. Install Pygame"> Install Pygame </a></li>
+<li><a href="### 5. Install Pyglete"> Install Pyglet </a></li>
+</ul>
+
+<li> <b><a href="# Documentation">Documentation </a></b> </li>
+<ul>
+<li><a href="### 🌵Clone This Repository"> Clone the Repository </a></li>
+<li><a href="### 2. Install Firebase Library for Python"> Install Firebase in Python </a></li>
+<li><a href="## 🐍 Just a few lines of python code to implement authentication"> Code Implementations Step by Step </a></li>
+<li><a href="## Full code to implement sign in and sign system in your python app using Firebase and Tkinter"> See Full Code After Implementation is Done </a></li>
+</ul>
+
+<li><b><a href="# 🌵"> Language and Tools </a></b></li>
+<li><b><a href="# Contact"> Contact </a></b></li>
+<li><b><a href="# 🌵 Screenshots of the UI"> Screenshots of the UI </a></b></li>
+
+</ol>
+</details>
+
+
 ## Dependencies
 
 Install these Dependencies from your terminal. I normally use my PyCharm terminal to install 
@@ -237,7 +267,7 @@ If you clone this entire repository, you will see a app.py script where I showed
 
 **That's how you add sign in and sign out using Firebase in Python in the simplest way!**
 
-<br/>
+# 🌵
 <h1 align="left">Languages and Tools:</h1>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>           <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>           <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/pycharm/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="pycharm" width="40" height="40"> </a>        </p> 
 
@@ -255,3 +285,14 @@ http://priomdeb.com
 
 # 🌵 Stay peace and keep coding!
 <p align="center"> <a href="https://github.com/PriomDeb"> <img src="https://c.tenor.com/UIOAoI_h-XsAAAAd/sleep-tom-and-jerry.gif"> </a> </p>
+
+# 🌵 Screenshots of the UI
+<p>
+<img src="https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/blob/main/authenticationUI/loginUI.png?raw=true" width="400"> <img src="https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/blob/main/authenticationUI/signUpUI.png?raw=true" width="400"> 
+
+<img src="https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/blob/main/authenticationUI/resetPassword.png?raw=true" width="400">
+<img src="https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/blob/main/authenticationUI/verifyEmail.png?raw=true" width="400"> 
+
+<img src="https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/blob/main/authenticationUI/terms.png?raw=true" width="400">
+<img src="https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/blob/main/authenticationUI/internetConnection.png?raw=true" width="400"> 
+</p>
