@@ -289,11 +289,11 @@ http://priomdeb.com
 
 # Screenshots of the UI
 <p>
-<img src="https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/blob/main/authenticationUI/loginUI.png?raw=true" width="400"> <img src="https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/blob/main/authenticationUI/signUpUI.png?raw=true" width="400"> 
 
-<img src="https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/blob/main/authenticationUI/resetPassword.png?raw=true" width="400">
-<img src="https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/blob/main/authenticationUI/verifyEmail.png?raw=true" width="400"> 
-
-<img src="https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/blob/main/authenticationUI/terms.png?raw=true" width="400">
-<img src="https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/blob/main/authenticationUI/internetConnection.png?raw=true" width="400"> 
+<img src="https://i.ibb.co/Wx0fZ7S/login-UI-min.jpg" alt="login-UI-min" border="0" width="400">
+<img src="https://i.ibb.co/gMrB9Mw/reset-Password-min.jpg" alt="reset-Password-min" border="0" width="400">
+<img src="https://i.ibb.co/0nBz1SF/sign-Up-UI-min.jpg" alt="sign-Up-UI-min" border="0" width="400">
+<img src="https://i.ibb.co/x86SL7Q/terms-min.jpg" alt="terms-min" border="0" width="400">
+<img src="https://i.ibb.co/DLWsBSr/verify-Email-min.jpg" alt="verify-Email-min" border="0" width="400">
+<img src="https://i.ibb.co/xhQDfjT/internet-Connection-min.jpg" alt="internet-Connection-min" border="0" width="400">
 </p>
