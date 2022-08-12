@@ -24,26 +24,25 @@ write couple of lines to use Firebase authentication system in your python apps.
 
 <ol>
 
-<li> <b><a href="## Dependencies">Install Required Dependencies </a></b> </li>
+<li> <b><a href="#dependencies">Install Required Dependencies </a></b> </li>
 <ul>
-<li><a href="### 1. Install Tkinter"> Install Tkinter </a></li>
-<li><a href="### 2. Install Firebase Library for Python"> Install Firebase in Python </a></li>
-<li><a href="### 3. Install Pillow"> Install Pillow </a></li>
-<li><a href="### 4. Install Pygame"> Install Pygame </a></li>
-<li><a href="### 5. Install Pyglete"> Install Pyglet </a></li>
+<li><a href="#1-install-tkinter"> Install Tkinter </a></li>
+<li><a href="#2-install-firebase-library-for-python"> Install Firebase in Python </a></li>
+<li><a href="#3-install-pillow"> Install Pillow </a></li>
+<li><a href="#4-install-pygame"> Install Pygame </a></li>
+<li><a href="#5-install-pyglet"> Install Pyglet </a></li>
 </ul>
 
-<li> <b><a href="# Documentation">Documentation </a></b> </li>
+<li> <b><a href="#documentation">Documentation </a></b> </li>
 <ul>
-<li><a href="### 🌵Clone This Repository"> Clone the Repository </a></li>
-<li><a href="### 2. Install Firebase Library for Python"> Install Firebase in Python </a></li>
-<li><a href="## 🐍 Just a few lines of python code to implement authentication"> Code Implementations Step by Step </a></li>
-<li><a href="## Full code to implement sign in and sign system in your python app using Firebase and Tkinter"> See Full Code After Implementation is Done </a></li>
+<li><a href="#🌵clone-this-repository"> Clone the Repository </a></li>
+<li><a href="#🐍-just-a-few-lines-of-python-code-to-implement-authentication"> Code Implementations Step by Step </a></li>
+<li><a href="#full-code-to-implement-sign-in-and-sign-system-in-your-python-app-using-firebase-and-tkinter"> See Full Code After Implementation is Done </a></li>
 </ul>
 
-<li><b><a href="# 🌵"> Language and Tools </a></b></li>
-<li><b><a href="# Contact"> Contact </a></b></li>
-<li><b><a href="# 🌵 Screenshots of the UI"> Screenshots of the UI </a></b></li>
+<li><b><a href="#🌵"> Language and Tools </a></b></li>
+<li><b><a href="#contact"> Contact </a></b></li>
+<li><b><a href="#🌵-screenshots-of-the-ui"> Screenshots of the UI </a></b></li>
 
 </ol>
 </details>
