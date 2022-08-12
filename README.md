@@ -35,14 +35,14 @@ write couple of lines to use Firebase authentication system in your python apps.
 
 <li> <b><a href="#documentation">Documentation </a></b> </li>
 <ul>
-<li><a href="#🌵clone-this-repository"> Clone the Repository </a></li>
-<li><a href="#🐍-just-a-few-lines-of-python-code-to-implement-authentication"> Code Implementations Step by Step </a></li>
+<li><a href="#documentation"> Clone the Repository </a></li>
+<li><a href="#documentation"> Code Implementations Step by Step </a></li>
 <li><a href="#full-code-to-implement-sign-in-and-sign-system-in-your-python-app-using-firebase-and-tkinter"> See Full Code After Implementation is Done </a></li>
 </ul>
 
-<li><b><a href="#🌵"> Language and Tools </a></b></li>
+<li><b><a href="#languages-and-tools"> Language and Tools </a></b></li>
 <li><b><a href="#contact"> Contact </a></b></li>
-<li><b><a href="#🌵-screenshots-of-the-ui"> Screenshots of the UI </a></b></li>
+<li><b><a href="#screenshots-of-the-ui"> Screenshots of the UI </a></b></li>
 
 </ol>
 </details>
@@ -266,8 +266,10 @@ If you clone this entire repository, you will see a app.py script where I showed
 
 **That's how you add sign in and sign out using Firebase in Python in the simplest way!**
 
-# 🌵
-<h1 align="left">Languages and Tools:</h1>
+<br/>
+
+# Languages and Tools
+
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>           <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>           <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/pycharm/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="pycharm" width="40" height="40"> </a>        </p> 
 
 <br/>
@@ -285,7 +287,7 @@ http://priomdeb.com
 # 🌵 Stay peace and keep coding!
 <p align="center"> <a href="https://github.com/PriomDeb"> <img src="https://c.tenor.com/UIOAoI_h-XsAAAAd/sleep-tom-and-jerry.gif"> </a> </p>
 
-# 🌵 Screenshots of the UI
+# Screenshots of the UI
 <p>
 <img src="https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/blob/main/authenticationUI/loginUI.png?raw=true" width="400"> <img src="https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/blob/main/authenticationUI/signUpUI.png?raw=true" width="400"> 
 
