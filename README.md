@@ -5,6 +5,7 @@ This module will help you to add authentication system in your desktop based Pyt
 in a couple of seconds. Just add this repository in the root folder of your project and 
 write couple of lines to use Firebase authentication system in your python apps.
 
+[![Contributors](https://img.shields.io/badge/Total_Lines_of_Code_🐍-1121-yellow?style=for-the-badge)](https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/graphs/contributors)
 [![Contributors](https://img.shields.io/github/contributors/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter?style=for-the-badge)](https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/graphs/contributors)
 [![Members](https://img.shields.io/github/forks/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter?style=for-the-badge)](https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/network/members)
 [![Stars](https://img.shields.io/github/stars/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter?style=for-the-badge)](https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/stargazers)
